@@ -60,7 +60,7 @@ The final result of this particular computation is the following rho-calculus pr
 
 The output uses the notation that is close to the notation in the paper. 
 The tracing output is interactive: it highlights matching braces and "local variables" (which are represented
-by de-Bruijn terms).
+by de-Bruijn indices).
 
 See the source code (`rhocalc.scala`) for more examples.
 If anyone ever considers to write more "programs" with it, the easiest way would be
